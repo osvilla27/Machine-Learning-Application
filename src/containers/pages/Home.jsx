@@ -4,7 +4,7 @@ import FullWidthLayout from "hocs/layouts/FullWidthLayout"
 const Home = () => {
   return (
     <FullWidthLayout>
-      Home
+      <div>hola</div>
     </FullWidthLayout>
   )
 }
